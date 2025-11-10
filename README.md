@@ -3,7 +3,7 @@
 
 
 ## 🧠 Introduction
-- I developed this project along with my project-mates as part of my **final year of Engineering**. This work focuses on implementing **DCT-based lossy image compression** entirely in **MATLAB**.  
+- I developed this project along with my project-mates as part of my final year of Engineering. This work focuses on implementing **DCT-based lossy image compression** entirely in **MATLAB**.  
 - The goal was to understand how the **Discrete Cosine Transform (DCT)** can efficiently compress images by transforming spatial data into frequency components and reducing redundancy.  
 - I analyzed its performance using key metrics like **Peak Signal-to-Noise Ratio (PSNR)**, **Mean Squared Error (MSE)**, and **Compression Ratio** to study the trade-off between image quality and compression efficiency.
 
